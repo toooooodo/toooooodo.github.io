@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiang Zhuang"
+title                    : "Xiang Zhuang (庄祥)"
 description              : "Ph.D. student in Computer Science. Focusing on AI for Science."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
