@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Xiang Zhuang (庄祥), a Ph.D. student in Computer Science and Technology at Zhejiang University (浙江大学), advised by Professor [Huajun Chen (陈华钧)](https://person.zju.edu.cn/en/huajun) and [Qiang Zhang (张强)](https://person.zju.edu.cn/qiangzhang). I obtained my bachelor's degree in Software Engineering from Zhejiang University in 2020. My research interests revolve around AI4Science, with a particular focus on the intersection of deep learning and molecule, protein, and single-cell omics.
+Hi, I'm Xiang Zhuang (庄祥), a Ph.D. student in Computer Science and Technology at [Zhejiang University (浙江大学)](https://www.zju.edu.cn/), advised by Professor [Huajun Chen (陈华钧)](https://person.zju.edu.cn/en/huajun) and [Qiang Zhang (张强)](https://person.zju.edu.cn/qiangzhang). I obtained my bachelor's degree in Software Engineering from Zhejiang University in 2020. My research interests revolve around AI4Science, with a particular focus on the intersection of deep learning and molecule, protein, and single-cell omics.
 
 
 
