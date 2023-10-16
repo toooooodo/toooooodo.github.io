@@ -41,23 +41,30 @@ Hi, I'm Xiang Zhuang (庄祥), a Ph.D. student in Computer Science and Technolog
 </div>
 </div> -->
 
-- **Learning Invariant Molecular Representation in Latent Discrete Space**<br>**Xiang Zhuang**, Qiang Zhang, Keyan Ding, Yatao Bian, Xiao Wang, Jingsong Lv, Hongyang Chen, Huajun Chen<br> ***NeurIPS***, 2023<br>[\[paper\]]()[\[code\]]()
-- **Prompting Meta-Learned Hierarchical Graph Network for Molecular Property Prediction**<br>**Xiang Zhuang**, Keyan Ding, Yin Fang, Huajun Chen, Qiang Zhang<br> ***IEEE MedAI***, 2023<br>[\[paper\]]()[\[code\]]()
-- **Graph Sampling-based Meta-Learning for Molecular Property Prediction**<br>**Xiang Zhuang**, Qiang Zhang, Bin Wu, Keyan Ding, Yin Fang, Huajun Chen<br> ***IJCAI***, 2023<br>[\[paper\]](https://arxiv.org/abs/2306.16780)[\[code\]](https://github.com/HICAI-ZJU/GS-Meta)
+## Preprint
+- **InstructProtein: Aligning Human and Protein Language via Knowledge Instruction**<br>Zeyuan Wang, Qiang Zhang, Keyan Ding, Ming Qin, **Xiang Zhuang**, Xiaotong Li, Huajun Chen<br>[\[paper\]](https://arxiv.org/abs/2310.03269)
+
+## Journal
 - **Knowledge Graph-enhanced Molecular Contrastive Learning with Functional Prompt**<br>Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, **Xiang Zhuang**, Xin Shao, Xiaohui Fan, Huajun Chen<br> ***Nature Machine Intelligence (IF=23.8)***, 2023<br>[\[paper\]](https://www.nature.com/articles/s42256-023-00654-0)[\[code\]](https://github.com/HICAI-ZJU/KANO)
 - **Benchmarking Knowledge-driven Zero-shot Learning**<br>Yuxia Geng, Jiaoyan Chen, **Xiang Zhuang**, Zhuo Chen, Jeff Z Pan, Juan Li, Zonggang Yuan, Huajun Chen<br>***Journal of Web Semantics***, 2023<br>[\[paper\]](https://www.sciencedirect.com/science/article/pii/S1570826822000415)[\[code\]](https://github.com/China-UK-ZSL/Resources_for_KZSL)
 - **De Novo Analysis of Bulk RNA-seq Data at Spatially Resolved Single-cell Resolution**<br>Jie Liao\*, Jingyang Qian\*, Yin Fang\*, Zhuo Chen\*, **Xiang Zhuang\***, Ningyu Zhang, Xin Shao, Yining Hu, Penghui Yang, Junyun Cheng, Yang Hu, Lingqi Yu, Haihong Yang, Jinlu Zhang, Xiaoyan Lu, Li Shao, Dan Wu, Yue Gao, Huajun Chen, Xiaohui Fan<br>***Nature Communications (IF=16.6)** (Top 25 Life and Biological Sciences Articles of 2022)*, 2022<br>[\[paper\]](https://www.nature.com/articles/s41467-022-34271-z)[\[code\]](https://github.com/ZJUFanLab/bulk2space)
-- **Molecular Contrastive Learning with Chemical Element Knowledge Graph**<br>Yin Fang, Qiang Zhang, Haihong Yang, **Xiang Zhuang**, Shumin Deng, Wen Zhang, Ming Qin, Zhuo Chen, Xiaohui Fan, Huajun Chen<br>***AAAI***, 2022<br>[\[paper\]](https://arxiv.org/abs/2112.00544)[\[code\]](https://github.com/ZJU-Fangyin/KCL)
 - **scDeepSort: a Pre-trained Cell-type Annotation Method for Single-cell Transcriptomics using Deep Learning with a Weighted Graph Neural Network**<br>Xin Shao, Haihong Yang, **Xiang Zhuang**, Jie Liao, Penghui Yang, Junyun Cheng, Xiaoyan Lu, Huajun Chen, Xiaohui Fan<br>***Nucleic Acids Research (IF=14.9)***, 2021<br>[\[paper\]](https://academic.oup.com/nar/article/49/21/e122/6368052)[\[code\]](https://github.com/ZJUFanLab/scDeepSort)
+
+## Conference
+- **Learning Invariant Molecular Representation in Latent Discrete Space**<br>**Xiang Zhuang**, Qiang Zhang, Keyan Ding, Yatao Bian, Xiao Wang, Jingsong Lv, Hongyang Chen, Huajun Chen<br> ***NeurIPS***, 2023<br>[\[paper\]]()[\[code\]]()
+- **Prompting Meta-Learned Hierarchical Graph Network for Molecular Property Prediction**<br>**Xiang Zhuang**, Keyan Ding, Yin Fang, Huajun Chen, Qiang Zhang<br> ***IEEE MedAI***, 2023<br>[\[paper\]]()[\[code\]]()
+- **Graph Sampling-based Meta-Learning for Molecular Property Prediction**<br>**Xiang Zhuang**, Qiang Zhang, Bin Wu, Keyan Ding, Yin Fang, Huajun Chen<br> ***IJCAI***, 2023<br>[\[paper\]](https://arxiv.org/abs/2306.16780)[\[code\]](https://github.com/HICAI-ZJU/GS-Meta)
+- **Molecular Contrastive Learning with Chemical Element Knowledge Graph**<br>Yin Fang, Qiang Zhang, Haihong Yang, **Xiang Zhuang**, Shumin Deng, Wen Zhang, Ming Qin, Zhuo Chen, Xiaohui Fan, Huajun Chen<br>***AAAI***, 2022<br>[\[paper\]](https://arxiv.org/abs/2112.00544)[\[code\]](https://github.com/ZJU-Fangyin/KCL)
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2023.2 - now*, &nbsp;&nbsp;&nbsp;  Ph.D. student, Computer science and technology, Zhejiang University.
-- *2020.9 - 2023.1*, Master student, Computer science and technology, Zhejiang University.
-- *2016.9 - 2020.7*, Undergraduate student, Software engineering, Zhejiang University. 
+- *2023.2 - now*, &nbsp;&nbsp;&nbsp;  Ph.D., Computer science and technology, Zhejiang University.
+- *2020.9 - 2023.1*, Master, Computer science and technology, Zhejiang University.
+- *2016.9 - 2020.7*, Undergraduate, Software engineering, Zhejiang University. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
