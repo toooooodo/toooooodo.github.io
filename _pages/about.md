@@ -22,6 +22,7 @@ Hi, I'm Xiang Zhuang (庄祥), a Ph.D. student in Computer Science and Technolog
 
 
 # 🔥 News
+- *2024.06*: &nbsp;We preprint a dataset & benchmark paper about [Scientific Knowledge Evaluation](https://github.com/HICAI-ZJU/SciKnowEval). 
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2024. 
 - *2024.05*: &nbsp;🎉🎉 Two papers are accepted by ICML 2024. 
 - *2024.01*: &nbsp;We preprint a survey paper about [Scientific Large Language Models](https://github.com/HICAI-ZJU/Scientific-LLM-Survey). 
@@ -45,6 +46,7 @@ Hi, I'm Xiang Zhuang (庄祥), a Ph.D. student in Computer Science and Technolog
 </div> -->
 
 ## Preprint
+- **SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Models**<br>Kehua Feng, Keyan Ding, Weijie Wang, **Xiang Zhuang**, Zeyuan Wang, Ming Qin, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen<br>[\[paper\]](https://arxiv.org/abs/2406.09098)[\[code\]](https://github.com/HICAI-ZJU/SciKnowEval)
 - **Scientific large language models: A survey on biological & chemical domains**<br>Qiang Zhang, Keyang Ding, Tianwen Lyv, Xinda Wang, Qingyu Yin, Yiwen Zhang, Jing Yu, Yuhao Wang, Xiaotong Li, Zhuoyi Xiang, **Xiang Zhuang**, Zeyuan Wang, Ming Qin, Mengyao Zhang, Jinlu Zhang, Jiyu Cui, Renjun Xu, Hongyang Chen, Xiaohui Fan, Huabin Xing, Huajun Chen<br>[\[paper\]](https://arxiv.org/abs/2401.14656)[\[code\]](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)
 
 ## Journal
@@ -55,7 +57,7 @@ Hi, I'm Xiang Zhuang (庄祥), a Ph.D. student in Computer Science and Technolog
 
 ## Conference
 - **StableMask: Refining Causal Masking in Decoder-only Transformer**<br>Qingyu Yin, Xuzheng He, **Xiang Zhuang**, Yu Zhao, Jianhua Yao, Xiaoyu Shen, Qiang Zhang<br> ***ICML***, 2024<br>[\[paper\]](https://arxiv.org/abs/2402.04779)[\[code\]]()
-- **Knowledge-aware Reinforced Language Models for Protein Directed Evolution**<br>Yuhao Wang, Qiang Zhang, Ming Qin, **Xiang Zhuang**, Xiaotong Li, Zhichen Gong, Zeyuan Wang, Yu Zhao, Jianhua Yao, Keyan Ding, Huajun Che<br> ***ICML***, 2024<br>[\[paper\]]()[\[code\]]()
+- **Knowledge-aware Reinforced Language Models for Protein Directed Evolution**<br>Yuhao Wang, Qiang Zhang, Ming Qin, **Xiang Zhuang**, Xiaotong Li, Zhichen Gong, Zeyuan Wang, Yu Zhao, Jianhua Yao, Keyan Ding, Huajun Chen<br> ***ICML***, 2024<br>[\[paper\]](https://openreview.net/forum?id=MikandLqtW)[\[code\]]()
 - **InstructProtein: Aligning Human and Protein Language via Knowledge Instruction**<br>Zeyuan Wang, Qiang Zhang, Keyan Ding, Ming Qin, **Xiang Zhuang**, Xiaotong Li, Huajun Chen<br> ***ACL***, 2024<br>[\[paper\]](https://arxiv.org/abs/2310.03269)[\[code\]]()
 - **Enhancing Cross Text-Molecule Learning by Self-Augmentation**<br>Yinuo Jiang, **Xiang Zhuang**, Keyan Ding, Qiang Zhang, Huajun Chen<br> ***ACL Findings***, 2024<br>[\[paper\]]()[\[code\]]()
 - **Learning Invariant Molecular Representation in Latent Discrete Space**<br>**Xiang Zhuang**, Qiang Zhang, Keyan Ding, Yatao Bian, Xiao Wang, Jingsong Lv, Hongyang Chen, Huajun Chen<br> ***NeurIPS***, 2023<br>[\[paper\]](https://arxiv.org/abs/2310.14170)[\[code\]](https://github.com/HICAI-ZJU/iMoLD)
