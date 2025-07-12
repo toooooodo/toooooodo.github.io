@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Xiang Zhuang (庄祥), a Ph.D. student in Computer Science at [Zhejiang University (浙江大学)](https://www.zju.edu.cn/), advised by Professor [Huajun Chen (陈华钧)](https://person.zju.edu.cn/en/huajun) and [Qiang Zhang (张强)](https://person.zju.edu.cn/en/zhangqiang). I received my bachelor's degree in Software Engineering from Zhejiang University in 2020. My research interests lie in AI for Science (AI4Science), particularly in applying large language models (LLMs) to biomolecules.
+I'm Xiang Zhuang (庄祥), a Ph.D. student in Computer Science at [Zhejiang University (浙江大学)](https://www.zju.edu.cn/), advised by Professor [Huajun Chen (陈华钧)](https://person.zju.edu.cn/en/huajun) and [Qiang Zhang (张强)](https://person.zju.edu.cn/en/zhangqiang). I received my bachelor's degree in Software Engineering from Zhejiang University in 2020. My research interests lie in AI for Science (AI4Science), particularly in applying large language models (LLMs) to biomolecules. I received the the 2025 CAAI Rising Scientist Honorable Mention (中国人工智能学会首届“潜力清源学者”), in recognition of achievements at the interdisciplinary frontiers of AI.
 
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉  I received the the 2025 CAAI Rising Scientist Honorable Mention (中国人工智能学会首届“潜力清源学者”), awarded to only 10 recipients nationwide.
 - *2025.05*: &nbsp;🎉🎉 Our paper [InstructBioMol](https://arxiv.org/abs/2410.07919) was accepted to Nature Machine Intelligence.
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted to ACL 2025.
 - *2025.04*: &nbsp;🎉🎉 I will give a tutorial on [Integrating Knowledge Graphs and Large Language Models for Advancing Scientific Research](https://icdcs2025.icdcs.org/tutorial-integrating-knowledge-graphs-and-large-language-models-for-advancing-scientific-research/) at ICDCS 2025. See you in Glasgow this July!
