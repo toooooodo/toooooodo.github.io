@@ -23,7 +23,7 @@ I'm Xiang Zhuang (庄祥), a Ph.D. student in Computer Science at [Zhejiang Univ
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉  I received the 2025 CAAI Rising Scientist Honorable Mention (中国人工智能学会首届“潜力清源学者”), awarded to only 10 recipients nationwide.
-- *2025.05*: &nbsp;🎉🎉 Our paper [InstructBioMol](https://arxiv.org/abs/2410.07919) was accepted to Nature Machine Intelligence.
+- *2025.05*: &nbsp;🎉🎉 Our paper [InstructBioMol](https://www.nature.com/articles/s42256-025-01064-0) was accepted to Nature Machine Intelligence.
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted to ACL 2025.
 - *2025.04*: &nbsp;🎉🎉 I will give a tutorial on [Integrating Knowledge Graphs and Large Language Models for Advancing Scientific Research](https://icdcs2025.icdcs.org/tutorial-integrating-knowledge-graphs-and-large-language-models-for-advancing-scientific-research/) at ICDCS 2025. See you in Glasgow this July!
 - *2025.01*: &nbsp;🎉🎉 One survey paper about [Scientific Large Language Models](https://dl.acm.org/doi/10.1145/3715318) was accepted to ACM Computing Surveys.
@@ -49,7 +49,7 @@ I'm Xiang Zhuang (庄祥), a Ph.D. student in Computer Science at [Zhejiang Univ
 
 
 ## Journal
-- **Advancing Biomolecule Understanding and Design Following Human Instructions**<br>**Xiang Zhuang**, Keyan Ding, Tianwen Lyu, Yinuo Jiang, Xiaotong Li, Zhuoyi Xiang, Zeyuan Wang, Ming Qin, Kehua Feng, Jike Wang, Qiang Zhang, Huajun Chen<br>***Nature Machine Intelligence***, 2025<br>[\[paper\]](https://arxiv.org/abs/2410.07919)[\[code\]](https://github.com/HICAI-ZJU/InstructBioMol)
+- **Advancing Biomolecular Understanding and Design Following Human Instructions**<br>**Xiang Zhuang**, Keyan Ding, Tianwen Lyu, Yinuo Jiang, Xiaotong Li, Zhuoyi Xiang, Zeyuan Wang, Ming Qin, Kehua Feng, Jike Wang, Qiang Zhang, Huajun Chen<br>***Nature Machine Intelligence***, 2025<br>[\[paper\]](https://www.nature.com/articles/s42256-025-01064-0)[\[code\]](https://github.com/HICAI-ZJU/InstructBioMol)
 - **Scientific large language models: A survey on biological & chemical domains**<br>Qiang Zhang, Keyang Ding, Tianwen Lyv, Xinda Wang, Qingyu Yin, Yiwen Zhang, Jing Yu, Yuhao Wang, Xiaotong Li, Zhuoyi Xiang, **Xiang Zhuang**, Zeyuan Wang, Ming Qin, Mengyao Zhang, Jinlu Zhang, Jiyu Cui, Renjun Xu, Hongyang Chen, Xiaohui Fan, Huabin Xing, Huajun Chen<br>***ACM Computing Surveys***, 2025<br>[\[paper\]](https://dl.acm.org/doi/10.1145/3715318)[\[code\]](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)
 - **Knowledge Graph-enhanced Molecular Contrastive Learning with Functional Prompt**<br>Yin Fang, Qiang Zhang, Ningyu Zhang, Zhuo Chen, **Xiang Zhuang**, Xin Shao, Xiaohui Fan, Huajun Chen<br> ***Nature Machine Intelligence***, 2023<br>[\[paper\]](https://www.nature.com/articles/s42256-023-00654-0)[\[code\]](https://github.com/HICAI-ZJU/KANO)
 - **Benchmarking Knowledge-driven Zero-shot Learning**<br>Yuxia Geng, Jiaoyan Chen, **Xiang Zhuang**, Zhuo Chen, Jeff Z Pan, Juan Li, Zonggang Yuan, Huajun Chen<br>***Journal of Web Semantics***, 2023<br>[\[paper\]](https://www.sciencedirect.com/science/article/pii/S1570826822000415)[\[code\]](https://github.com/China-UK-ZSL/Resources_for_KZSL)
@@ -57,7 +57,7 @@ I'm Xiang Zhuang (庄祥), a Ph.D. student in Computer Science at [Zhejiang Univ
 - **scDeepSort: a Pre-trained Cell-type Annotation Method for Single-cell Transcriptomics using Deep Learning with a Weighted Graph Neural Network**<br>Xin Shao, Haihong Yang, **Xiang Zhuang**, Jie Liao, Penghui Yang, Junyun Cheng, Xiaoyan Lu, Huajun Chen, Xiaohui Fan<br>***Nucleic Acids Research***, 2021<br>[\[paper\]](https://academic.oup.com/nar/article/49/21/e122/6368052)[\[code\]](https://github.com/ZJUFanLab/scDeepSort)
 
 ## Conference
-- **Boosting LLM’s Molecular Structure Elucidation with Knowledge Enhanced Tree Search Reasoning**<br>**Xiang Zhuang**, Bin Wu, Jiyu Cui, Kehua Feng, Xiaotong Li, Huabin Xing, Keyan Ding, Qiang Zhang, Huajun Chen<br> ***ACL***, 2025<br>[\[paper\]]()[\[code\]]()
+- **Boosting LLM’s Molecular Structure Elucidation with Knowledge Enhanced Tree Search Reasoning**<br>**Xiang Zhuang**, Bin Wu, Jiyu Cui, Kehua Feng, Xiaotong Li, Huabin Xing, Keyan Ding, Qiang Zhang, Huajun Chen<br> ***ACL***, 2025<br>[\[paper\]](https://arxiv.org/abs/2506.23056)[\[code\]](https://github.com/HICAI-ZJU/K-MSE)
 - **DePLM: Denoising Protein Language Models for Property Optimization**<br>Zeyuan Wang, Keyan Ding, Ming Qin, Xiaotong Li, **Xiang Zhuang**, Yu Zhao, Jianhua Yao, Qiang Zhang, Huajun Chen<br> ***NeurIPS***, 2024<br>[\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2024/file/89af8e4eb696738f2c9e589522968a09-Paper-Conference.pdf)[\[code\]]()
 - **StableMask: Refining Causal Masking in Decoder-only Transformer**<br>Qingyu Yin, Xuzheng He, **Xiang Zhuang**, Yu Zhao, Jianhua Yao, Xiaoyu Shen, Qiang Zhang<br> ***ICML***, 2024<br>[\[paper\]](https://arxiv.org/abs/2402.04779)[\[code\]](https://github.com/MikaStars39/StableMask)
 - **Knowledge-aware Reinforced Language Models for Protein Directed Evolution**<br>Yuhao Wang, Qiang Zhang, Ming Qin, **Xiang Zhuang**, Xiaotong Li, Zhichen Gong, Zeyuan Wang, Yu Zhao, Jianhua Yao, Keyan Ding, Huajun Chen<br> ***ICML***, 2024<br>[\[paper\]](https://openreview.net/forum?id=MikandLqtW)[\[code\]]()
